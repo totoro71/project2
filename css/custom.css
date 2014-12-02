@@ -15,6 +15,8 @@ body {
   padding-bottom: 20px;
 }
 
+
+
 .intro{
 	padding-left: 40px;
 	padding-right: 40px;
@@ -32,10 +34,11 @@ color:#505050;
 }
 .jumbotron {
     margin-bottom: 0px;
-    background-image: url(http://wmpeople.wm.edu/asset/index/alphaphiomega/apobanner);
+    background-image: url(http://th01.deviantart.net/fs71/PRE/f/2012/158/1/8/alpha_phi_omega_by_19calvin25-d52otax.jpg);
     background-position: 0% 20%;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
-    opacity: 1
+    text-shadow: black 0.3em 0.3em 0.3em;
+    opacity: .85
 }
